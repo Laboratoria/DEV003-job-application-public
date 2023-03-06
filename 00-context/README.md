@@ -123,15 +123,15 @@ documentar feedback para ellas y el equipo de Laboratoria.
  por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
  abiertos.
 
-**En este [apartado](https://github.com/Laboratoria/job-application-public/blob/main/00-context/README.md#mentor%C3%ADas-t%C3%A9cnicas)
+**En este [apartado](https://github.com/Laboratoria/DEV003-job-application-public/blob/main/00-context/README.md)
 podrás consultar los objetivos alcanzar con la
 simulación y revisión y feedback de su Github profile.**
 
-|                 Actividades                  |   Tipo   | Semana   | Día/hora |
-|----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |          |          |
-| Simulación de entrevista técnica.            | Abierta  |          |          |
-| Enviar formulario evaluación y feedback.     | Abierta  |          |          |
+|                 Actividades                  |   Tipo   |         Día         |                      Día/hora                 |
+|----------------------------------------------|----------|---------------------|-----------------------------------------------|
+| Sesión de Q&A sobre el programa.             |   Fija   |     4 de abril      | 4:00pm(Mex)/5:00pm(Col, Ec, Per)/7:00pm(Chile)|          
+| Simulación de entrevista técnica.            | Abierta  |Del 10 al 21 de abril| Coordinado a disponibilidad de mentor y mentee|
+| Enviar formulario evaluación y feedback.     | Abierta  |Después de simulación|              Deadline: 21 de abril            |
 
 ### Objetivos de aprendizaje
 
