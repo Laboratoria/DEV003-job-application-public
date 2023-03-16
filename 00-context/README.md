@@ -97,8 +97,8 @@ revisión y feedback de herramientas y con la simulación.**
 | Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   | Semana del 27/02 |                                                    |
 | Sesión de seguimiento al feedback.                  | Abierta  | Semana del 6/03  |                                                    |
 | Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  | Semana del 13/03 |                                                    |
-| Simulación de entrevista de recursos humanos.       | Abierta  | Del 20 al 27/03  |                                                    |
-| Enviar formulario evaluación y feedback entrevista. | Abierta  | Del 20 al 27/03  |                                                    |
+| Simulación de entrevista de recursos humanos.       | Abierta  | Del 20 al 31/03  |                                                    |
+| Enviar formulario evaluación y feedback entrevista. | Abierta  | Del 20 al 31/03  |      A medida se vaya dando la entrevista          |
 
 ### Objetivos de aprendizaje
 
