@@ -129,7 +129,7 @@ simulación y revisión y feedback de su Github profile.**
 
 |                 Actividades                  |   Tipo   |         Día         |                      Día/hora                 |
 |----------------------------------------------|----------|---------------------|-----------------------------------------------|
-| Sesión de Q&A sobre el programa.             |   Fija   |     4 de abril      | 4:00pm(Mex)/5:00pm(Col, Ec, Per)/7:00pm(Chile)|          
+| Sesión de Q&A sobre el programa.             |   Fija   |     4 de abril      | 4:00pm(Mex)/5:00pm(Col, Ec, Per)/6:00pm(Chile)|          
 | Simulación de entrevista técnica.            | Abierta  |Del 10 al 21 de abril| Coordinado a disponibilidad de mentor y mentee|
 | Enviar formulario evaluación y feedback.     | Abierta  |Después de simulación|              Deadline: 21 de abril            |
 
